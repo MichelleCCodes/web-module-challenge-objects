@@ -14,7 +14,7 @@ The function should:
 */
 
 function createMenuItem(name,price,category){
-    /*Your code here*/
+    testing text
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
