@@ -13,8 +13,8 @@ The function should:
   2. Create and return an object using the received values  
 */
 
-function createMenuItem(name,price,category){
-    testing text
+function createMenuItem(theName, thePrice, theCategory){
+return {name: theName, price: thePrice, category: theCategory}
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
